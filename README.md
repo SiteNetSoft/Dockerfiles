@@ -1,6 +1,10 @@
 <img src="./assets/container-ship.webp" alt="Container ship picture" style="width: 450px;" align="right">
 
 # Dockerfiles
+
+[![Language: English](https://img.shields.io/badge/Language-English-blue.svg)](./README.md)
+[![Language: Français](https://img.shields.io/badge/Langue-Fran%C3%A7ais-blue.svg)](./README.fr.md)
+
 Containers that are used for various reasons.
 
 ## :scroll: COPYRIGHT and License
